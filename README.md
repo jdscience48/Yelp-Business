@@ -1,2 +1,2 @@
 # Yelp-Business
-Does region, or temperature have a statistically significant affect on reviews of businesses
+ Does region, or temperature have an affect on businesses reviews? 
